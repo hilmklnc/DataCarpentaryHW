@@ -1,1 +1,6 @@
+<<<<<<< 7c615240d0003cadc01b634b794111c8d3e32574
 git check and control
+=======
+git control 
+gitkraken exploration
+>>>>>>> by gitkraken
