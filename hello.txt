@@ -1,6 +1,15 @@
 <<<<<<< 7c615240d0003cadc01b634b794111c8d3e32574
+<<<<<<< 7c615240d0003cadc01b634b794111c8d3e32574
 git check and control
 =======
 git control 
 gitkraken exploration
 >>>>>>> by gitkraken
+=======
+<<<<<<< HEAD
+git control 
+gitkraken exploration
+=======
+git check and control
+>>>>>>> parent of 7e913f9 (new message!)
+>>>>>>> Revert "new message!"
